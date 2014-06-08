@@ -1,5 +1,5 @@
 ^9e86f86 (Dan Kahle 2014-06-02 17:15:15 -0700 1) some text 
 52452732 (Dan Kahle 2014-06-02 17:43:12 -0700 2) two
 52452732 (Dan Kahle 2014-06-02 17:43:12 -0700 3) three
-6c8def0a (Dan Kahle 2014-06-02 18:49:30 -0700 4) four
-6c8def0a (Dan Kahle 2014-06-02 18:49:30 -0700 5) 
+four // sorry had to add it back danielmarvin, too bad so sad...
+five
